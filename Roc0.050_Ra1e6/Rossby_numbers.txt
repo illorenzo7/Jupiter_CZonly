@@ -1,0 +1,17 @@
+Ro = |vort|/(2*Omega)
+
+Iteration 5,347,500 (last one)
+
+Bottom 10%		Middle 10%		Upper 10%		Global
+Mean flows		0.0038			0.011			0.038			0.017
+Fluc flows		0.0089			0.040			0.190			0.087
+
+Ro = |U|/(2*H*Omega), H = shell depth
+
+Iteration 5,347,500 (last one)
+
+Bottom 10%		Middle 10%		Upper 10%		Global
+Mean flows		0.0062			0.0075			0.0164			0.0098
+Fluc flows		0.00038		0.0013			0.0055			0.0026
+
+These numbers don’t change much throughout the simulation, i.e., when there are jets vs. when they disappear. 
