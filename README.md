@@ -2,7 +2,7 @@
 
 To all Jupiter enthusiasts named Matt, Geoff, and Nic:
 
-In this Google folder, I am in the process of compiling some results based on the convection-zone only Jupiter models I’ve been running. I’m going to start with just one model (so there is something to look at before the end of today, 02/27) but I have a whole grid of cases. These have several common attributes:
+In this Github repository, I am in the process of compiling some results based on the convection-zone only Jupiter models I’ve been running. I’m going to start with just one model (so there is something to look at before the end of today, 02/27) but I have a whole grid of cases. These have several common attributes:
 
 Aspect ratio (r_in/r_out = 0.9, r_in = 9, r_out = 10)
 3 density scale heights across the layer
