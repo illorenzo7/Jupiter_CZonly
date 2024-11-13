@@ -41,9 +41,20 @@ Pr = 0.5
 
 and
 
-sigma = 3. 
+sigma = 3 (this implies N ~ 8 \Omega). 
 
 The subfolders containing plots and info about each run are labeled
 
 Roc[###]_Ra[###]
-….where the hashtags denote the values of Ro_c and Ra. 
+
+For the original Wulff case (interpreting her paper), it was 
+
+Ro_c = 0.14
+Ra = 4.9 x 10^6
+
+Note that Loren messed up nondimensionalization along the way, and so the only current simulation pair with both a CZ-only case and WL counterpart has
+
+Ro_c = 0.20
+Ra = 10^7
+
+This is not truly a Wulff analogue but so far what we have to work with. 
