@@ -58,3 +58,9 @@ Ro_c = 0.20
 Ra = 10^7
 
 This is not truly a Wulff analogue but so far what we have to work with. 
+
+Some helpful conversions of timescales:
+1 viscous diffusion time = 0.11 x Ra^(1/2) / Ro_c rotations
+E.g., for Ra = 4.9 x 10^6, Ro_c = 0.14, 1 VDT = 1,740 rotations
+
+1 thermal diffusion time = 1/2 VDT (since Pr = 1/2). For above, 1 TDT = 870 rotations
